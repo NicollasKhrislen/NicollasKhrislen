@@ -30,3 +30,5 @@ Sou um entusiasta de tecnologia com uma trajetória focada em **robótica de ní
   </a>
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" height="52" />
 </p>
+
+---
