@@ -32,5 +32,3 @@ Sou um entusiasta de tecnologia com uma trajetória focada em **robótica de ní
 </p>
 
 ---
-
-<br>
