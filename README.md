@@ -21,7 +21,6 @@ Sou um entusiasta de tecnologia com uma trajetória focada em **robótica de ní
 - 🤝 **Soft Skills:** Fortes habilidades em **trabalho em equipe** e colaboração, desenvolvidas em ambientes competitivos
 - 🌍 **Idioma:** Inglês de nível intermediário.
 <br>
-<br>
 
 ---
 
