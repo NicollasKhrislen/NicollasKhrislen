@@ -19,7 +19,7 @@ Sou um entusiasta de tecnologia com uma trajetória focada em **robótica de ní
 - 🎓 **Técnico em Redes de Computadores** pelo Sesi/Senai Taguatinga.
 - 🤖 **Competidor de Robótica (FRC):** 2 anos de experiência, com participação no **Mundial em Houston**.
 - 🤝 **Soft Skills:** Fortes habilidades em **trabalho em equipe** e colaboração, desenvolvidas em ambientes competitivos
-- 🌍 **Idioma:** Inglês de nível intermediário.
+- 🌍 **Idioma:** Inglês de nível avançado.
 
 ---
 
